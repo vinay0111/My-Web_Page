@@ -1,0 +1,188 @@
+body {
+    border-top: 0;
+    margin:  0 0 0;
+    text-align: center;
+    color: #FEFBE7;
+    background-color:black;
+}
+
+h2
+{
+    color: #66bfbf;
+}
+h3
+{
+    color:#11999e;
+    font-size: 30px;
+}
+hr {
+    border: dotted #EAF6F6 6px;
+    border-bottom: none;
+    width: 4%;
+    margin: 100px auto;
+}
+p
+{
+    font-size: 20px;
+}
+a{
+    color: #11999E;
+    font-family: 'Montserrat', sans-serif;
+    margin: 10px 20px;
+    text-decoration: none;
+
+  }
+  
+  a:hover {
+    color: #EAF6F6;
+  }
+.vinay
+{
+    margin: 0 auto 0 auto;
+    font-family: 'Courgette',cursive,Arial, Helvetica, sans-serif;
+    color:#11999e;
+    font-size: 60px;
+    line-height: 2;
+}
+.top-container
+{
+
+    position: relative;
+    padding-top: 60px;
+}
+.top-cloud
+{
+    position: absolute;
+    right: 25%;
+    top: 5%;
+
+}
+.mountain
+{
+    width: 50%;
+    margin-top: 50px;
+}
+.bottom-cloud
+{
+    position: absolute;
+    left: 25% ;
+    top: 45 %;
+}
+.My-Image
+{
+    width: 200px;
+    height: 200px;
+}
+.My-Skills
+{
+    font-size: 25px;
+    margin-top: 50px;
+    color:#E6BA95;
+}
+.code-image
+{
+    border-radius: 500px;
+    width: 20%;
+    float: left;
+    margin-right: 30px;
+    margin-top: 0;
+}
+.Skill-Row-1
+{
+    width: 55%;
+    text-align: left;
+    margin: 100px auto 150px auto;
+}
+.machine-image
+{
+    border-radius: 500px;
+    width: 20%;
+    float: right;
+    margin-right: 30px;
+    margin-top: 0;
+}
+.Skill-Row-2
+{
+    width: 55%;
+    text-align: left;
+    margin: 100px auto 150px auto;
+}
+.Touch
+{
+    font-size: 30px;
+    margin-bottom: 50px;
+}
+.contact-me
+{
+    border-bottom: 100px;
+}
+.btn {
+    background: #11cdd4;
+    background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+    background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: 'Montserrat', sans-serif;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+    margin-bottom: 50px;
+  }
+  
+  .btn:hover {
+    background: #30e3cb;
+    background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+    text-decoration: none;
+  }
+.bottom-container
+{
+    background-color:#0f0e0e;
+    margin-top: 100px;
+    height: 250px;
+    position: relative;
+}
+.linkedin
+{
+    height: 50px;
+
+    top: 50px;
+    left: 550px;
+    background-color: #E6BA95;
+}
+.instagram
+{
+    height: 50px;
+
+    top: 50px;
+    left: 700px;
+    background-color: #E6BA95;
+}
+.twitter
+{
+    height: 50px;
+
+    top: 50px;
+    right: 500px;
+    background-color: #E6BA95;
+}
+.github
+{
+    height: 50px;
+
+    top: 50px;
+    left: 835px;
+    background-color: #E6BA95;
+}
+.Image-Container
+{
+    padding: 55px;
+}
